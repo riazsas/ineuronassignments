@@ -1,0 +1,50 @@
+1. In the below elements which of them are values or an expression? eg:- values can be
+integer or string and expressions will be mathematical operators.
+
+Ans.
+* - expression
+'hello' - value
+-87.8 - value
+- - expression
+/ - expression
++ - expression
+6 - value
+
+2. What is the difference between string and variable?
+
+Ans.
+A 'string' is a data type that is used to store alphanumeric characters data whereas a 'variable' is a placeholder to store any type of data. 
+
+3. Describe three different data types.
+
+Ans.
+Integer - used to represent whole numbers eg. 12,0,-2
+
+Float - used to represent decimal numbers eg. 6.7,12.44,0.93324
+
+String - used to represent alphanumeric characters eg. 'HelloWorld","ineuron123","12345"
+
+4. What is an expression made up of? What do all expressions do?
+
+Ans.
+An expression is made up of variables,operators and method invocations. Expressions are used to evaluate values 
+
+5. This assignment statements, like spam = 10. What is the difference between an
+expression and a statement?
+Statements represent an action or command e.g print statements, assignment statements. Expression is a combination of variables, operations and values that yields a result value.
+
+
+6.After running the following code, what does the variable bacon contain?
+bacon = 22
+bacon + 1
+
+Ans
+bacon=22
+
+7.What should the values of the following two terms be?
+'spam' + 'spamspam' = 'spamspamspam'
+'spam'* 3 = 'spamspamspam'
+
+8.Why is eggs a valid variable name while 100 is invalid?
+Eggs is valid because variable names doesnt allow a variable to start with an interger or numericharacter because of misinterpretation by the complier during parsing and lexing 
+
